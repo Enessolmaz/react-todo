@@ -39,7 +39,7 @@ function Form({addVeriler, veriler}) {
         }
        
                 addVeriler([...veriler, deger])
-                notification('Hoşgeldiniz' + " " + deger.tamIsim);
+                notification(`Hoşgeldiniz + ${deger.tamIsim}`);
                setDeger({tamIsim : '', cepNum : ''})
                 
        
