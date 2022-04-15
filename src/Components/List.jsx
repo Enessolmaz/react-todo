@@ -23,7 +23,7 @@ function List({veriler}) {
               <span className='green'></span> 
               <span className='logo'>
               
-                <a target="_blank" href="https://github.com/raidenx">
+                <a target="_blank" rel="noreferrer" href="https://github.com/raidenx">
                 <ion-icon className='logo' name="logo-github" size="large"/>
                 </a>
               
