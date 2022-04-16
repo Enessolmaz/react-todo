@@ -47,7 +47,7 @@ function Form({addVeriler, veriler}) {
     }
 
   return (
-    <div className='form'>
+    <div className='inputsForm'>
                 <div>
                     <input  
                     name='tamIsim' 
